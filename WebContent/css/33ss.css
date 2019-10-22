@@ -1,0 +1,72 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	background: red;
+}
+
+#table1{
+	/*height: auto;
+	  
+	width: auto;*/
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+#td1{
+	height: 57px;
+	width: 100%;
+	background: url(../img/li.PNG)no-repeat;
+	background-size: 100% 100%;
+	
+}
+#td2{
+	height: 50%;
+	width: 100%;
+	background: url(../img/ss.jpg)no-repeat;
+	background-size: 100% 100%;
+}
+#td3{
+	text-align: center;
+}
+#table2{
+	margin-top: 12%;
+	margin-bottom: 11%;
+}
+#username{
+	background-color: skyblue;
+	border: 0;
+	outline-style: window-inset;
+	border-radius: 8px;
+	width: 240px;
+	height: 30px;
+	margin-bottom: 18px;
+	margin-top: 18px;
+	}
+#password{
+	background-color: skyblue;
+	border: 0;
+	outline-style: window-inset;
+	border-radius: 8px;
+	width: 240px;
+	height: 30px;
+	margin-bottom: 18px;
+}
+#select{
+	background-color: skyblue;
+	border: 0;
+	outline-style: window-inset;
+	border-radius: 8px;
+	width: 240px;
+	height: 30px;
+	/*margin-bottom: 18px;*/
+}
+#login{
+	margin-top: 15px;
+	margin-left: 10%;
+	border: 0;
+	border-radius: 9px;
+	width: 190px;
+	height: 30px;
+	background-color: cornflowerblue;
+	margin-bottom: 18px;
+}

@@ -1,0 +1,20 @@
+.in{	
+	list-style-image: url(../img/main/11.png);
+}
+.search{
+	list-style-image: url(../img/main/09.png);
+}
+.update{
+	list-style-image: url(../img/main/10.png);
+}
+li{
+	margin-top: 13px;
+	font-size: 13px;
+}
+a{
+	text-decoration: none;
+	
+	
+	
+}
+	

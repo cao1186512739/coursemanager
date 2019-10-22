@@ -1,0 +1,54 @@
+#table1{
+	height: auto;
+	width: auto;
+}
+#td1{
+	height: 57px;
+	width: 100%;
+	
+}
+#table2{
+	margin-top: 12%;
+	margin-bottom: 11%;
+}
+#select{
+	background-color: skyblue;
+	border: 0;
+	outline-style: window-inset;
+	border-radius: 8px;
+	width: 220px;
+	height: 25px;
+	margin-bottom: 18px;
+	margin-top: 18px;
+	}
+#username{
+	background-color: skyblue;
+	border: 0;
+	outline-style: window-inset;
+	border-radius: 8px;
+	width: 220px;
+	height: 25px;
+	margin-bottom: 18px;
+}
+#password{
+	background-color: skyblue;
+	border: 0;
+	outline-style: window-inset;
+	border-radius: 8px;
+	width: 220px;
+	height: 25px;
+	margin-bottom: 18px;
+}
+#td4{
+	text-align: center;
+}
+#login{
+	margin-top: 15px;
+	margin-left: 0%;
+	border: 0;
+	border-radius: 9px;
+	width: 220px;
+	height: 25px;
+	background-color: skyblue;
+	margin-bottom: 18px;
+}
